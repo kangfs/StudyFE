@@ -6,7 +6,7 @@
 
 你可以直接选择克隆到本地：
 ```javascript
-git clone git@github.com:kangfs/StudyFE.git
+git clone https://github.com/kangfs/StudyFE.git
 
 cd StudyFE
 npm run docs:dev
